@@ -1,0 +1,38 @@
+!················································ ch ················································
+
+! Dec 28, 2024 https://www.postfinance.ch
+postfinance.ch##.cookie_consent_banner
+postfinance.ch##.cookie_consent_banner--background
+postfinance.ch##html:style(overflow: auto !important;)
+
+! Dec 30, 2024 https://www.nzz.ch
+nzz.ch###sub-head-button
+! Jan 13, 2025 https://www.nzz.ch
+nzz.ch##.disabled-overlay--show.disabled-overlay
+
+! Feb 23, 2025 https://www.elektrobedarf.ch
+elektrobedarf.ch###cookie-overlay
+
+!················································ us ················································
+
+! Mar 21, 2025 https://chatgpt.com
+! Remove the annoyances when not logged in
+chatgpt.com##.inset-0.absolute
+chatgpt.com##html:style(overflow: auto !important;)
+chatgpt.com##body:remove-attr(class)
+chatgpt.com##body:remove-attr(style)
+chatgpt.com##body:remove-attr(data-scroll-locked)
+chatgpt.com##[data-testid="send-button"]:remove-attr(disabled)
+chatgpt.com##span:has-text(/ChatGPT/i)
+chatgpt.com##div:has-text(/^ChatGPT can make mistakes. Check important info\./m)
+
+! OLED burin in danger
+||imgur.com^
+
+! waste
+9gag.com###top-nav
+9gag.com##.drawer-container
+9gag.com##.signup-list-banner
+9gag.com##.share-bar
+9gag.com##.post-tags
+9gag.com##div.home-tab-bar__tab:nth-of-type(5)
