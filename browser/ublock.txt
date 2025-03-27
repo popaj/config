@@ -26,7 +26,7 @@ chatgpt.com##[data-testid="send-button"]:remove-attr(disabled)
 chatgpt.com##span:has-text(/ChatGPT/i)
 chatgpt.com##div:has-text(/^ChatGPT can make mistakes. Check important info\./m)
 
-! OLED burin in danger
+! OLED burn-in in danger
 ||imgur.com^
 
 ! waste
