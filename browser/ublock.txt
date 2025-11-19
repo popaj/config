@@ -1,21 +1,27 @@
 !················································ ch ················································
-
-! Dec 28, 2024 https://www.postfinance.ch
 postfinance.ch##.cookie_consent_banner
 postfinance.ch##.cookie_consent_banner--background
 postfinance.ch##html:style(overflow: auto !important;)
 
-! Dec 30, 2024 https://www.nzz.ch
 nzz.ch###sub-head-button
-! Jan 13, 2025 https://www.nzz.ch
 nzz.ch##.disabled-overlay--show.disabled-overlay
 
-! Feb 23, 2025 https://www.elektrobedarf.ch
-elektrobedarf.ch###cookie-overlay
+blick.ch##.sc-45e6ca25-0.cZgSft
+blick.ch##.fyDtEB:style(position: static !important;)
+
+||cdn.duden.de/statics/ad-free-pur.svg
+||cdn.duden.de/statics/duden-abo-ohne-werbung.png
+||cdn.duden.de/public_files/2025-05/teaser-duden-mentor-2025.png
+||cdn.duden.de/public_files/2025-05/teaser-d1-2025.png
+||sp.duden.de/unified/wrapperMessagingWithoutDetection.js$script
+||sp.duden.de/Notice.4e20a.js$script
+duden.de##.essay--compact.essay
+duden.de##.breaking
+duden.de##.tabloid__masthead--sticky.tabloid__masthead
+duden.de##footer
 
 !················································ us ················································
 
-! Mar 21, 2025 https://chatgpt.com
 ! Remove the annoyances when not logged in
 chatgpt.com##.inset-0.absolute
 chatgpt.com##html:style(overflow: auto !important;)
@@ -26,13 +32,21 @@ chatgpt.com##[data-testid="send-button"]:remove-attr(disabled)
 chatgpt.com##span:has-text(/ChatGPT/i)
 chatgpt.com##div:has-text(/^ChatGPT can make mistakes. Check important info\./m)
 
-! OLED burn-in in danger
-||imgur.com^
+! OLED burn-in danger
+||supervideo.cc/images/logo012.png
+||i.doodcdn.io/upload-data/player_logo/logo_9166.png
+||kinoger.com/templates/kinoger/images/logo.png
+||mikaylaarealike.com/s/logo/vTswkw3Q2Ge8AEwm.png
+||kinoger.p2pplay.pro/XfCgoSDNSCRjgN5m9jkVgA/bgm/cvax3f5o/33/4c30.png
+||kinoger.re/x6oErz2qAp8bOZNzcwtveg/pq/2024-09-27/70/76e1.png
 
-! waste
-9gag.com###top-nav
-9gag.com##.drawer-container
-9gag.com##.signup-list-banner
-9gag.com##.share-bar
-9gag.com##.post-tags
-9gag.com##div.home-tab-bar__tab:nth-of-type(5)
+kinoger.com##ul#mainmenu > li:not(:last-child)
+kinoger.com###top-container
+kinoger.com###right-content
+kinoger.com###tools
+kinoger.com###left-content
+kinoger.com##.shr-bookmarks-bg-caring.shr-bookmarks-center.shr-bookmarks-expand.shr-bookmarks
+
+# 3rd Party
+||accounts.google.com/$script,third-party
+#||www.google.com/$third-party
