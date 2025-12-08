@@ -5,6 +5,26 @@ postfinance.ch##html:style(overflow: auto !important;)
 
 nzz.ch###sub-head-button
 nzz.ch##.disabled-overlay--show.disabled-overlay
+||cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js$script
+nzz.ch##+js(set, window.scrollTo, noopFunc)
+nzz.ch##+js(ses-storage, react-router-scroll-positions, {})
+||nzz.ch^/assets/pianoClient.js$script
+||nzz.ch/cdn-cgi/scripts/*/email-decode.min.js
+||nzz.ch/assets/pianoClient.js
+||cdn.piano.io/api/tinypass.min.js
+nzz.ch##script[data-cache-key^="id:piano-init-scripts-"]
+nzz.ch##script[data-cache-key="id:nzz-adnz-flag-"]
+nzz.ch##script[hid="piano-main-script"]
+nzz.ch##script[data-cache-key="id:piano-detect-"]
+nzz.ch##script[data-cache-key="id:piano-iframe-listener-"]
+nzz.ch##script[data-cache-key="id:digital-data-initializer-"]
+nzz.ch##script[data-cache-key="id:active-media-script-"]
+nzz.ch##script[data-cache-key="id:market-iframe-listener-"]
+||nzz-assets.static-nzz.ch/production/web/13.23.23/assets/root-3P5s158V.js$script
+nzz.ch##span[data-nzz-cc][data-nzz-af]
+nzz.ch##^script:has-text(window.__reactRouterContext.streamController)
+||cdn.cxense.com/cx.js$third-party
+||npttech.com/advertising.js$third-party
 
 blick.ch##.sc-45e6ca25-0.cZgSft
 blick.ch##.fyDtEB:style(position: static !important;)
