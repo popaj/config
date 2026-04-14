@@ -26,6 +26,12 @@ nzz.ch##^script:has-text(window.__reactRouterContext.streamController)
 ||cdn.cxense.com/cx.js$third-party
 ||npttech.com/advertising.js$third-party
 
+!trash news
+blick.ch##[class*="PianoRestrictedDrawer__StyledRestrictedBackground"]
+blick.ch##div[class^="WrapperOfAll__StyledWrapperOfAll"]:style(position: static !important;)
+blick.ch##[class*="BlickPlusInfoBox"]
+blick.ch##[class*="Commercial"]
+blick.ch##[class*="EmbeddedContent"]
 blick.ch##.sc-45e6ca25-0.cZgSft
 blick.ch##.fyDtEB:style(position: static !important;)
 
