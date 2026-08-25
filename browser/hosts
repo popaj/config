@@ -1,0 +1,21 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+# Dementor
+0.0.0.0 imgur.com
+0.0.0.0 www.imgur.com
+0.0.0.0 m.imgur.com
+0.0.0.0 i.imgur.com
+
+0.0.0.0 9gag.com
+0.0.0.0 www.9gag.com
+0.0.0.0 m.9gag.com
+0.0.0.0 api.9gag.com
+0.0.0.0 img.9gag.com
