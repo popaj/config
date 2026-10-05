@@ -1,0 +1,28 @@
+
+# Firefox offline installation
+https://www.firefox.com/en-US/download/all/desktop-release/
+
+# Just the Browser
+https://justthebrowser.com/firefox/
+
+------------------------------
+
+# Debloat
+https://github.com/christitustech/winutil
+
+# O&O ShutUp 10
+https://www.oo-software.com/en/shutup10
+
+# Edge Remover
+https://github.com/ShadowWhisperer/Remove-MS-Edge
+
+# Win 11 AI Remover
+https://github.com/zoicware/RemoveWindowsAI?tab=readme-ov-file
+
+------------------------------
+
+# Editor
+https://code.visualstudio.com/download
+
+
+
